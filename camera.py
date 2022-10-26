@@ -251,5 +251,5 @@ class Camera(object):
 
 
 if __name__ == '__main__':
-    C1 = Camera('10.168.1.166', 'admin', 'actl9239')
+    C1 = Camera('10.168.1.166', 'admin', 'passwd')
     C1.camera_catch()
